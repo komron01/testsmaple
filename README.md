@@ -1,0 +1,2 @@
+# testsmaple
+Для AWS
